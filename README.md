@@ -28,11 +28,11 @@ The system is designed to be simple, fast, and user-friendly, making fitness ins
 11. ML prediction passed to LLM to generate human-friendly explanation.
 12. Built a simple and interactive Streamlit UI.
 
-How to Run (Short)
-Install required libraries
-Run the Streamlit app
+How to Run (Short)          
+Install required libraries          
+Run the Streamlit app          
 
-streamlit run app.py
+# streamlit run app.py 
 
 📌 Output
 - Fitness category (e.g., Fit, Unfit, Overweight)

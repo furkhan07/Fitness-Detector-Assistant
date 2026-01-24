@@ -13,7 +13,8 @@ The system is designed to be simple, fast, and user-friendly, making fitness ins
 3) Trained ML model predicts the fitness category.
 4) LLM generates a simple explanation of the result.
 5) Output is displayed instantly to the user.
-
+   
+❇️Dataset & Features
 1. Developed a machine learning–based Fitness Detector Assistant to predict user fitness status.
 2. Dataset downloaded from Kaggle and imported into VS Code.
 3. Data cleaned and processed using Pandas and NumPy.

@@ -23,7 +23,6 @@ The system is designed to be simple, fast, and user-friendly, making fitness ins
 6. Trained ML models using Boosting techniques.
 7. Achieved good model performance and accurate predictions.
 8. Used Hugging Face API token for LLM access and text generation  
-   - TOKEN KEY: (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).  
    - LLM Models: [Hugging Face](deepseek-ai/DeepSeek-R1 )   
 10. API token stored securely using environment variables (not hardcoded).
 11. ML prediction passed to LLM to generate human-friendly explanation.

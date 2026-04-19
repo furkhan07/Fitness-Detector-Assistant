@@ -33,7 +33,7 @@ How to Run (Short)
 streamlit run app.py
 ```
 
-link : http://localhost:8501/
+Link : http://localhost:8501/    
 📌 Output
 - Fitness category (e.g., Fit, Unfit, Overweight)
 - Clear and concise explanation

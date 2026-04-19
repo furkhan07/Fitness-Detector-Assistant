@@ -32,6 +32,8 @@ How to Run (Short)
 ```bash
 streamlit run app.py
 ```
+
+link : http://localhost:8501/
 📌 Output
 - Fitness category (e.g., Fit, Unfit, Overweight)
 - Clear and concise explanation
